@@ -1,0 +1,11 @@
+{
+    "you_not_in_area": "You not in **digarea**!",
+    "progressbar_digging": "Digging", 
+    "blip_dig_area": "Digarea",
+    "can_do_it_in_vehicle": "Can´t do this in **vehicle!**",
+    "you_canceled_digging": "You **canceled** digging!",
+    "get_normal_reward": "You dig **x",
+    "get_normal_reward2": " Sand!**",
+    "get_premium_reward": "You dig **x",
+    "get_premium_reward2": " Sand** ja **x2 Gold**"
+  }

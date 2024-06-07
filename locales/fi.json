@@ -1,0 +1,23 @@
+{
+  "you_not_in_area": "Sinä et ole **kaivuualueella**!",
+  "progressbar_digging": "Kaivetaan", 
+  "blip_dig_area": "Kaivuualue",
+  "can_do_it_in_vehicle": "Et voi tehdä tätä **ajoneuvossa!**",
+  "you_canceled_digging": "Sinä **peruutit** kaivamisen!",
+  "get_normal_reward": "Sinä kaivoit **x",
+  "get_normal_reward2": " Hiekka!**",
+  "get_premium_reward": "Sinä kaivoit **x",
+  "get_premium_reward2": " Hiekka** ja **x2 Kultahippu**",
+  "not_water_in_here": "Lähelläsi ei ole **vettä!**",
+  "can_do_this_swiming": "Et voi tehdä tätä **kun uit!**",
+  "panning": "Huuhdotaan",
+  "you_success_pan": "Sinä onnistuit **huuhdonnassa!**",
+  "you_failed_pan": "Sinä epäonnistuit **huuhdonnassa!**",
+  "you_not_have_item": "Sinulla ei ole **hiekkaa!**",
+  "you_got_nothing": "Hiekan seasta **ei löytynyt mitään**!",
+
+  "log_normal_reward": "## Kaivuualue \n Kaivoi x",
+  "log_normal_reward2": " hiekka!",
+  "log_premium_reward": "## Kaivuualue \n Kaivoi x",
+  "log_premium_reward2": " hiekka & 2x Kultahippu! "
+}

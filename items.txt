@@ -1,0 +1,20 @@
+	['vaskooli'] = {
+		label = 'Vaskooli',
+		weight = 450,
+		stack = false,
+		close = false,
+	},
+	['lapio'] = {
+		label = 'Lapio',
+		weight = 450,
+		stack = false,
+		close = false,
+	},
+    ['hiekka'] = {
+		label = 'Hiekka',
+		weight = 5,
+	},
+    ['kultahippu'] = {
+		label = 'Kultahippu',
+		weight = 30,
+	},
