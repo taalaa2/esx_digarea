@@ -7,5 +7,18 @@
     "get_normal_reward": "You dig **x",
     "get_normal_reward2": " Sand!**",
     "get_premium_reward": "You dig **x",
-    "get_premium_reward2": " Sand** ja **x2 Gold**"
+    "get_premium_reward2": " Sand** ja **x2 Gold**",
+
+    "not_water_in_here": "You not in water!",
+    "can_do_this_swiming": "You can´t do that with swimming!",
+    "panning": "Panning",
+    "you_success_pan": "You successful to **pan!**",
+    "you_failed_pan": "You failed to **pan!**",
+    "you_not_have_item": "You not enought **sand!**",
+    "you_got_nothing": "You found nothing..",
+  
+    "log_normal_reward": "## Digarea \n Dig x",
+    "log_normal_reward2": " sand!",
+    "log_premium_reward": "## Digarea \n Dig x",
+    "log_premium_reward2": " sand & 2x Gold! "
   }
