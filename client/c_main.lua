@@ -68,7 +68,9 @@ lib.callback.register('esx_digarea:StartPan', function(source)
                     ClearPedTasks(cache.ped)
                     TaskStartScenarioInPlace(cache.ped, "WORLD_HUMAN_BUM_WASH", 0, false)
                     AttachEntityToEntity(proppi, cache.ped, GetPedBoneIndex(cache.ped, 60309), 0.129, 0.14, 0.13, 270.0, 180.0, 300.0, true, true, false, true, 1, true)
-    
+
+		    exports.ox_inventory:closeInventory()
+
                     local minigame = exports.peuren_minigames:StartPressureBar(50, 3)
     
                     if minigame then
